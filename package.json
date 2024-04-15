@@ -16,6 +16,7 @@
     "jquery": "^3.7.1",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0",
+    "vue3-carousel": "^0.3.3",
     "vuejs-paginate-next": "^1.0.2"
   },
   "devDependencies": {
