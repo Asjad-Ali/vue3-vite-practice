@@ -1,0 +1,943 @@
+{
+  "petWear": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    }
+  ],
+  "strollers": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    }
+  ],
+  "food": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/parrot.webp"
+    }
+  ],
+  "vehicles": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/1.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/2.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/3.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/4.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/5.png"
+    }
+  ],
+  "toys": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/1.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/2.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/3.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/4.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/5.png"
+    }
+  ],
+  "eggs": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/1.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/2.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/4.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/3.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/5.png"
+    }
+  ],
+  "others": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/1.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/2.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/3.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/4.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/5.png"
+    }
+  ],
+  "pets": [
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shadow Dragon",
+      "img": "/images/1.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Bat Dragon",
+      "img": "/images/2.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Giraffe",
+      "img": "/images/3.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Frost Dragon",
+      "img": "/images/4.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Owl",
+      "img": "/images/5.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Parrot",
+      "img": "/images/6.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Evil Unicorn",
+      "img": "/images/7.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Crow",
+      "img": "/images/8.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Blazing Lion",
+      "img": "/images/9.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Butterfly",
+      "img": "/images/10.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Arctic Reindeer",
+      "img": "/images/11.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Monkey King",
+      "img": "/images/12.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Albino Monkey",
+      "img": "/images/13.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Turtle",
+      "img": "/images/14.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Black-Chested Pheasant",
+      "img": "/images/15.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Kangaroo",
+      "img": "/images/16.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Undead Jousting Horse",
+      "img": "/images/17.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Strawberry Shortcake Bat Dragon",
+      "img": "/images/18.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Amazon",
+      "img": "/images/19.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Hamster",
+      "img": "/images/20.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Hot Doggo",
+      "img": "/images/21.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Mechapup",
+      "img": "/images/22.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Pirate Ghost Capuchin Monkey",
+      "img": "/images/23.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Frost Unicorn",
+      "img": "/images/24.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Chocolate Chip Bat Dragon",
+      "img": "/images/25.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Emperor Gorilla",
+      "img": "/images/26.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Tio De Nadal",
+      "img": "/images/27.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Frost Fury",
+      "img": "/images/28.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Vampire Dragon",
+      "img": "/images/29.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Giant Gold Scarab",
+      "img": "/images/30.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Midnight Dragon",
+      "img": "/images/31.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Albatross",
+      "img": "/images/32.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dancing Dragon",
+      "img": "/images/33.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Winged Tiger",
+      "img": "/images/34.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Candyfloss Chick",
+      "img": "/images/35.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond King Penguin",
+      "img": "/images/36.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Caelum Cervi",
+      "img": "/images/37.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Glacier Kitsune",
+      "img": "/images/38.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Werewolf",
+      "img": "/images/39.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Rainbow Dragon",
+      "img": "/images/40.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Lavender Dragon",
+      "img": "/images/41.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Chow-Chow",
+      "img": "/images/42.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Ice Golem",
+      "img": "/images/43.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Capricorn",
+      "img": "/images/44.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Albino Gorilla",
+      "img": "/images/45.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Queen Bee",
+      "img": "/images/46.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Volcanic Rhino",
+      "img": "/images/47.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Unicorn",
+      "img": "/images/48.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Skele-Rex",
+      "img": "/images/49.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Hamster",
+      "img": "/images/50.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Ninja Monkey",
+      "img": "/images/51.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Phoenix",
+      "img": "/images/52.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dimorphodon",
+      "img": "/images/53.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Ladybug",
+      "img": "/images/54.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Cuddly Candle",
+      "img": "/images/55.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Dragon",
+      "img": "/images/56.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Penguin",
+      "img": "/images/57.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Royal Capuchin Monkey",
+      "img": "/images/58.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Winged Horse",
+      "img": "/images/59.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Cactus Friend",
+      "img": "/images/60.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Criosphinx",
+      "img": "/images/61.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shark",
+      "img": "/images/62.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "T-Rex",
+      "img": "/images/63.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Owlbear",
+      "img": "/images/64.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dodo",
+      "img": "/images/65.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Fallow Deer",
+      "img": "/images/66.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Chameleon",
+      "img": "/images/67.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Squid",
+      "img": "/images/68.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Spinosaurus",
+      "img": "/images/69.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Leviathan",
+      "img": "/images/70.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Octopus",
+      "img": "/images/71.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Rat",
+      "img": "/images/72.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Goldhorn",
+      "img": "/images/73.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "White Amazon",
+      "img": "/images/74.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Jousting Horse",
+      "img": "/images/75.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Green Butterfly",
+      "img": "/images/76.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Green-Chested Pheasant",
+      "img": "/images/77.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Dragon",
+      "img": "/images/78.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Naga Dragon",
+      "img": "/images/79.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Astronaut Gorilla",
+      "img": "/images/80.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Gargoyle",
+      "img": "/images/81.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shark Puppy",
+      "img": "/images/82.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Tree Kangaroo",
+      "img": "/images/83.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Peacock",
+      "img": "/images/84.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Unicorn",
+      "img": "/images/85.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Walrus",
+      "img": "/images/86.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Firefly",
+      "img": "/images/87.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Candy Hare",
+      "img": "/images/88.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Ancient Dragon",
+      "img": "/images/89.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Alicorn",
+      "img": "/images/90.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Unicorn",
+      "img": "/images/91.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Axolotl",
+      "img": "/images/92.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Ladybug",
+      "img": "/images/93.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "King Bee",
+      "img": "/images/94.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Black Chow-Chow",
+      "img": "/images/95.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Chocolate Chow-Chow",
+      "img": "/images/96.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Lava Wolf",
+      "img": "/images/97.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden King Penguin",
+      "img": "/images/98.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Albatross",
+      "img": "/images/99.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Pirate Hermit Crab",
+      "img": "/images/100.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Field Mouse",
+      "img": "/images/101.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Hawk",
+      "img": "/images/102.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Guardian Lion",
+      "img": "/images/103.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Billy Goat",
+      "img": "/images/104.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Princess Capuchin Monkey",
+      "img": "/images/105.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Chimera",
+      "img": "/images/106.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Diamond Mahi Mahi",
+      "img": "/images/107.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Yule Log Dog",
+      "img": "/images/108.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Cerberus",
+      "img": "/images/109.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Snow Owl",
+      "img": "/images/110.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Shetland Pony Light Brown",
+      "img": "/images/111.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Dragon",
+      "img": "/images/112.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Baku",
+      "img": "/images/113.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Maneki-Neko",
+      "img": "/images/114.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/115.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dire Stag",
+      "img": "/images/116.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Fleur De Ice",
+      "img": "/images/117.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Ice Moth Dragon",
+      "img": "/images/118.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Robo Dog",
+      "img": "/images/119.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Golden Griffin",
+      "img": "/images/120.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Scarecrow Crow",
+      "img": "/images/121.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Cobra",
+      "img": "/images/122.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Mecha Meow",
+      "img": "/images/123.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Kitsune",
+      "img": "/images/124.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dragon",
+      "img": "/images/125.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Halloween Golden Mummy Cat",
+      "img": "/images/126.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Dragonfly",
+      "img": "/images/127.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "Sunrise Duckling",
+      "img": "/images/128.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/129.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/130.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/131.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/132.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/133.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/134.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/135.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/136.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/137.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/138.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/139.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/140.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/141.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/142.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/143.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/144.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/145.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/146.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/147.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/148.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/149.png"
+    },
+    {
+      "value": { "f": 45, "r": 55, "d": 60, "n": 70, "m": 234 },
+      "name": "zrafa",
+      "img": "/images/150.png"
+    }
+  ]
+}
