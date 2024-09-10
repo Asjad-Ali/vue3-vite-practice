@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>App Page</h1>
+    <h1>This is app page</h1>
   </div>
 </template>
