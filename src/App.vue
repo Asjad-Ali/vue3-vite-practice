@@ -123,11 +123,8 @@ function showPage(ind) {
 
 onMounted(async () => {
   if (window.screen.width <= 640) maxButtons.value = 4;
-  await getRepayments(pageNo.value, pageSize.value);
-  await getOpportunities();
   totalPages.value = Math.ceil(
     statsData.value.repayment_plans_count / Number(pageSize.value)
   );
-  instance.refs.repaymentCounter?.startCounter();
 });
 </script>
