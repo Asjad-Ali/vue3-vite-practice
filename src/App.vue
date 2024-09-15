@@ -1,5 +1,71 @@
 <template>
-  <router-view></router-view>
+  <div>
+    <div class="row">
+      <div
+        class="col-lg-12 split-container mb-4 mt-lg-4 mt-0 flex-lg-nowrap flex-wrap"
+      >
+        <div class="repayment-pagination mb-3">
+          <button
+            :disabled="pageNo == 0"
+            class="paginate-btn back-next"
+            :class="{ disable: pageNo == 0 }"
+            @click="showPage(Number(pageNo - 1))"
+          >
+            <span><i class="far fa-chevron-right"></i> &nbsp; الخلف </span>
+          </button>
+          <div v-for="(item, index) in noOfPages" :key="index">
+            <button
+              aria-current="page"
+              class="paginate-btn"
+              :class="{
+                active: pageNo == item,
+                disable: item === '...',
+              }"
+              :disabled="item === '...'"
+              @click="showPage(item)"
+            >
+              <span>{{ item === "..." ? "..." : item + 1 }}</span>
+            </button>
+          </div>
+          <button
+            :disabled="
+              pageNo == noOfPages[noOfPages.length - 1] ||
+              !transactions?.transactions?.length
+            "
+            class="paginate-btn back-next"
+            :class="{
+              disable: pageNo == noOfPages[noOfPages.length - 1],
+            }"
+            @click="showPage(Number(pageNo + 1))"
+          >
+            <span> التالي &nbsp; <i class="far fa-chevron-left"></i></span>
+          </button>
+        </div>
+        <div class="showing-records">
+          <span>
+            عرض
+            <b v-if="transactions?.transactions?.length">{{
+              numberFormat(pageSize * (pageNo + 1) - (pageSize - 1), 0)
+            }}</b>
+            <b v-else>0</b>
+            إلى
+            <b v-if="transactions?.transactions?.length">{{
+              numberFormat(
+                pageNo === noOfPages[noOfPages.length - 1]
+                  ? transactions.transactions_count
+                  : pageSize * (pageNo + 1),
+                0
+              )
+            }}</b>
+            <b v-else>0</b>
+            من أصل
+            <b>{{ numberFormat(transactions.transactions_count, 0) }}</b>
+            مُدخل
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script setup>
