@@ -1,3 +1,3 @@
 <template>
-  <router-view></router-view>
+ <div>This is a default page</div>
 </template>
