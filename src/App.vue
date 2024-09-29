@@ -35,7 +35,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, onUnmounted } from "vue";
+import { ref } from "vue";
 
 let active = ref(false);
 let inActiveTimeout = null;
